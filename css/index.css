@@ -1,0 +1,26 @@
+ *{
+	 font-size:0.8125rem;
+ }
+ li{
+	 list-style: none;
+ }
+ div.img{
+	 background: url("../images/home-bg.jpg") no-repeat;
+}
+#carouselExampleIndicators{
+	margin: 0 auto
+}
+footer{
+	background: url("../images/contact-bg.jpg");
+}
+.footer-img{
+	background: rgba(0,0,0,.5);
+	left:0;
+	top:0;
+}
+@media screen and (min-width:720px) {
+	.meader{
+		width:1100px;
+		margin: 0 auto;
+	}
+}
